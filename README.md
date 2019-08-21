@@ -1,6 +1,5 @@
-# RNN_BinaryAdditionTask
-Recurrent Neural Network for Binary Addition Task using only numpy (calculation) and matplotlib.pyplot (for plotting)
-
+# Recurrent Neural Network from scratch
+Recurrent Neural Network for Binary Addition Task using only numpy (calculation) and matplotlib.pyplot (plotting)
 
 # Dependencies
 1. numpy
